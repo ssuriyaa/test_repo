@@ -1,2 +1,2 @@
 # test_repo
-This is an attempt to lean to use Github
+This is an attempt to learn to use Github
